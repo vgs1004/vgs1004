@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Varshini 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=20&duration=4000&pause=2500&color=E0527F&center=true&vCenter=true&width=560&lines=IT+Business+Analyst+%C2%B7+PMO+%C2%B7+Data+and+Reporting;Turning+requirements+into+releases;Turning+SAP+data+into+clear+dashboards" alt="IT Business Analyst, PMO, Data and Reporting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=20&duration=4000&pause=2500&color=E0527F&center=true&vCenter=true&width=560&lines=Business+Analyst+and+PMO+%C2%B7+Data+Analysis+and+Reporting;Requirements+into+tested+releases;Project+data+into+reports+teams+can+act+on" alt="Business Analyst and PMO, Data Analysis and Reporting" />
 </p>
 
 <p align="center">
@@ -14,22 +14,29 @@
 
 ### About me
 
-I work where business needs meet delivery. I have three years of experience across software delivery, project governance and data reporting, including more than two years at **PwC India** (Advisory, Cyber) and delivery operations work at **aixigo AG** in Aachen.
+I work between business teams and IT delivery: requirements, testing, releases, and the reporting that shows whether a project is on track. I have three years of experience across consulting and fintech, including more than two years full-time at PwC. I am finishing my MSc in Data Analytics and Decision Sciences at RWTH Aachen University (thesis submitted) and learning German, currently A2.
 
-- 📋 At PwC I ran the monthly requirement-to-release cycle for a programme across India, Sri Lanka and Bangladesh. That covered requirements in Jira and Confluence, manual testing and UAT, and client sign-off for 20+ releases.
-- 📊 At aixigo I built a Power BI portfolio-health dashboard from 7 to 10 SAP reports and automated a monthly KPI calculation, saving 12 to 15 hours per cycle.
-- 🎓 MSc Data Analytics and Decision Sciences at RWTH Aachen University. My thesis on natural capital performance in the FMCG sector is submitted.
-- 🌱 Learning German (currently A2).
+### Experience
+
+**aixigo AG (Amundi Technology)**, Aachen · Delivery Operations and Governance · Nov 2025 to Sep 2026<br/>
+Built a Power BI portfolio-health dashboard from 7 to 10 SAP reports and automated the monthly KPI calculation, saving 12 to 15 hours per cycle.
+
+**PwC India**, Bengaluru · Associate, then Senior Associate, Advisory (Cyber) · Jul 2022 to Sep 2024<br/>
+Coordinated 20+ monthly releases across India, Sri Lanka and Bangladesh: requirements in Jira and Confluence, manual testing, UAT and client sign-off.
+
+**Flipkart (Ekart Logistics)** · Intern, Externalization · Feb 2022 to Jul 2022<br/>
+Daily operational reporting from ERP data, covering 500+ reverse-pickup shipments.
 
 ### What you'll find here
 
 | Project | What it is | Built with |
 |---|---|---|
 | [E-Commerce Supply, Partner and Pricing Analytics](https://github.com/vgs1004/ecommerce-supply-partner-pricing-analytics) | Raw, cleaned and gold SQL pipeline on about 100k Olist orders, with a Tableau dashboard on partner performance and pricing | Databricks SQL, Tableau |
-| [Project Financial and Portfolio Tracker](https://github.com/vgs1004/project-financial-portfolio-tracker) | 14 projects with budget vs actual, RAG status, utilization and a PivotTable dashboard | Excel |
+| [Project Financial and Portfolio Tracker](https://github.com/vgs1004/project-financial-portfolio-tracker) | 14 projects with budget vs actual, RAG status, utilisation and a PivotTable dashboard | Excel |
 | [RAID Log and Portfolio Review Tracker](https://github.com/vgs1004/raid-log-portfolio-review-tracker) | 55 risks, actions, issues and decisions with a high-impact open view for monthly reviews | Excel |
 | [SLA and Support Ticket Tracker](https://github.com/vgs1004/sla-support-ticket-tracker) | 180 tickets across P1 to P4 and L1 to L3 with SLA breach calculation | Excel |
 | [Shipment Ageing Report Automation](https://github.com/vgs1004/MyProjects/tree/main/Shipment%20Ageing%20Report%20Automation%20%28Excel%2C%20VBA%29) | One-click macro that turns a 180,000-line supply chain export into an ageing report, KPI dashboard and regional email drafts | Excel, VBA |
+| [Handwritten Notes Maker](https://github.com/vgs1004/MyProjects/tree/main/Handwritten%20Notes%20Maker%20%28Python%29) | Two ways to make AI study notes: one long prompt vs a Python notebook where Claude writes only the content | Python, Claude |
 | [Python and ML projects](https://github.com/vgs1004/MyProjects) | Capital gains tax pipeline, text classification, discrete choice models and regression notebooks | Python, scikit-learn, Streamlit |
 
 All project data is synthetic or public. The full index is in [MyProjects](https://github.com/vgs1004/MyProjects).
@@ -64,4 +71,4 @@ Professional Scrum Master I · ISO/IEC 27001:2022 Lead Implementer · Google Pro
 
 ---
 
-<p align="center"><sub>Always happy to talk about requirements, reporting, or good project hygiene. Find me on <a href="https://www.linkedin.com/in/vgs1004/">LinkedIn</a>.</sub></p>
+<p align="center"><sub>Portfolio and Learning Log: <a href="https://vgs1004.github.io">vgs1004.github.io</a> · <a href="https://www.linkedin.com/in/vgs1004/">LinkedIn</a></sub></p>
