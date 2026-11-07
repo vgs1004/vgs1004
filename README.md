@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Varshini 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=20&duration=4000&pause=2500&color=B5653D&center=true&vCenter=true&width=560&lines=IT+Business+Analyst+%C2%B7+PMO+%C2%B7+Data+and+Reporting;Turning+requirements+into+releases;Turning+SAP+data+into+clear+dashboards" alt="IT Business Analyst, PMO, Data and Reporting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=20&duration=4000&pause=2500&color=E0527F&center=true&vCenter=true&width=560&lines=IT+Business+Analyst+%C2%B7+PMO+%C2%B7+Data+and+Reporting;Turning+requirements+into+releases;Turning+SAP+data+into+clear+dashboards" alt="IT Business Analyst, PMO, Data and Reporting" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vgs1004/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-8C5A3C?style=for-the-badge&logo=linkedin&logoColor=FDF6EC" /></a>
-  <img alt="Based in Aachen, Germany" src="https://img.shields.io/badge/Aachen,_Germany-C2703D?style=for-the-badge&logo=googlemaps&logoColor=FDF6EC" />
-  <img alt="Open to BA, PMO and Data roles" src="https://img.shields.io/badge/Open_to_BA_%7C_PMO_%7C_Data_roles-D4A373?style=for-the-badge&logoColor=3E2C23" />
+  <a href="https://www.linkedin.com/in/vgs1004/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-5371D1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
+  <img alt="Based in Aachen, Germany" src="https://img.shields.io/badge/Aachen,_Germany-E88F30?style=for-the-badge&logo=googlemaps&logoColor=3A1E4A" />
+  <img alt="Open to BA, PMO and Data roles" src="https://img.shields.io/badge/Open_to_BA_%7C_PMO_%7C_Data_roles-E0527F?style=for-the-badge&logoColor=FFFFFF" />
 </p>
 
 ---
@@ -37,26 +37,26 @@ All project data is synthetic or public. The full index is in [MyProjects](https
 ### Toolkit
 
 **Delivery and BA**<br/>
-<img alt="Jira" src="https://img.shields.io/badge/Jira-8C5A3C?style=flat-square&logo=jira&logoColor=FDF6EC" />
-<img alt="Confluence" src="https://img.shields.io/badge/Confluence-8C5A3C?style=flat-square&logo=confluence&logoColor=FDF6EC" />
-<img alt="Scrum" src="https://img.shields.io/badge/Scrum_(PSM_I)-8C5A3C?style=flat-square&logo=scrumalliance&logoColor=FDF6EC" />
-<img alt="Microsoft Project" src="https://img.shields.io/badge/MS_Project-8C5A3C?style=flat-square&logoColor=FDF6EC" />
-<img alt="Figma" src="https://img.shields.io/badge/Figma-8C5A3C?style=flat-square&logo=figma&logoColor=FDF6EC" />
+<img alt="Jira" src="https://img.shields.io/badge/Jira-3A1E4A?style=flat-square&logo=jira&logoColor=FFFFFF" />
+<img alt="Confluence" src="https://img.shields.io/badge/Confluence-3A1E4A?style=flat-square&logo=confluence&logoColor=FFFFFF" />
+<img alt="Scrum" src="https://img.shields.io/badge/Scrum_(PSM_I)-3A1E4A?style=flat-square&logo=scrumalliance&logoColor=FFFFFF" />
+<img alt="Microsoft Project" src="https://img.shields.io/badge/MS_Project-3A1E4A?style=flat-square&logoColor=FFFFFF" />
+<img alt="Figma" src="https://img.shields.io/badge/Figma-3A1E4A?style=flat-square&logo=figma&logoColor=FFFFFF" />
 
 **Data and reporting**<br/>
-<img alt="Power BI" src="https://img.shields.io/badge/Power_BI-C2703D?style=flat-square&logo=powerbi&logoColor=FDF6EC" />
-<img alt="Excel" src="https://img.shields.io/badge/Excel_%26_VBA-C2703D?style=flat-square&logoColor=FDF6EC" />
-<img alt="SQL" src="https://img.shields.io/badge/SQL-C2703D?style=flat-square&logo=databricks&logoColor=FDF6EC" />
-<img alt="Python" src="https://img.shields.io/badge/Python-C2703D?style=flat-square&logo=python&logoColor=FDF6EC" />
-<img alt="Tableau" src="https://img.shields.io/badge/Tableau-C2703D?style=flat-square&logoColor=FDF6EC" />
-<img alt="Power Automate" src="https://img.shields.io/badge/Power_Automate-C2703D?style=flat-square&logoColor=FDF6EC" />
+<img alt="Power BI" src="https://img.shields.io/badge/Power_BI-5371D1?style=flat-square&logo=powerbi&logoColor=FFFFFF" />
+<img alt="Excel" src="https://img.shields.io/badge/Excel_%26_VBA-5371D1?style=flat-square&logoColor=FFFFFF" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-5371D1?style=flat-square&logo=databricks&logoColor=FFFFFF" />
+<img alt="Python" src="https://img.shields.io/badge/Python-5371D1?style=flat-square&logo=python&logoColor=FFFFFF" />
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-5371D1?style=flat-square&logoColor=FFFFFF" />
+<img alt="Power Automate" src="https://img.shields.io/badge/Power_Automate-5371D1?style=flat-square&logoColor=FFFFFF" />
 
 **Platforms**<br/>
-<img alt="SAP Business ByDesign" src="https://img.shields.io/badge/SAP_ByDesign-D4A373?style=flat-square&logo=sap&logoColor=3E2C23" />
-<img alt="Dynamics 365" src="https://img.shields.io/badge/Dynamics_365-D4A373?style=flat-square&logoColor=3E2C23" />
-<img alt="HubSpot" src="https://img.shields.io/badge/HubSpot-D4A373?style=flat-square&logo=hubspot&logoColor=3E2C23" />
-<img alt="Atlan" src="https://img.shields.io/badge/Atlan-D4A373?style=flat-square&logoColor=3E2C23" />
-<img alt="Claude" src="https://img.shields.io/badge/Claude_%2B_MCP-D4A373?style=flat-square&logo=claude&logoColor=3E2C23" />
+<img alt="SAP Business ByDesign" src="https://img.shields.io/badge/SAP_ByDesign-7A96EA?style=flat-square&logo=sap&logoColor=3A1E4A" />
+<img alt="Dynamics 365" src="https://img.shields.io/badge/Dynamics_365-7A96EA?style=flat-square&logoColor=3A1E4A" />
+<img alt="HubSpot" src="https://img.shields.io/badge/HubSpot-7A96EA?style=flat-square&logo=hubspot&logoColor=3A1E4A" />
+<img alt="Atlan" src="https://img.shields.io/badge/Atlan-7A96EA?style=flat-square&logoColor=3A1E4A" />
+<img alt="Claude" src="https://img.shields.io/badge/Claude_%2B_MCP-7A96EA?style=flat-square&logo=claude&logoColor=3A1E4A" />
 
 ### Certifications
 
